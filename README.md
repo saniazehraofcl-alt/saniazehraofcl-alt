@@ -1,6 +1,6 @@
 ### Hi there, I'm Sania Zehra 👋
 
-I'm a **12th-grade Computer Science student** with a deep curiosity for technology, research,asking questions, and finding better ways to solve problems and building new ideas from scratch. Currently, I am laying my programming foundation with **Python** and exploring how software solves real-world program and strong interest in software development, artificial intelligence, and automation.
+I'm a **Computer Science student** with a deep curiosity for technology, research,asking questions, and finding better ways to solve problems and building new ideas from scratch. Currently, I am laying my programming foundation with **Python** and exploring how software solves real-world program and strong interest in software development, artificial intelligence, and automation.
 
 - 🔭 **Currently learning:
 - ** Python programming & core CS fundamentals
